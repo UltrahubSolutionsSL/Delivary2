@@ -1,0 +1,3 @@
+[29-Mar-2018 12:20:39 Asia/Colombo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/stanthon/public_html/module/vehicle/addvehicle.php on line 215
+[29-Mar-2018 12:25:34 Asia/Colombo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/stanthon/public_html/module/vehicle/addvehicle.php on line 219
+[29-Mar-2018 12:25:41 Asia/Colombo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/stanthon/public_html/module/vehicle/addvehicle.php on line 219

@@ -1,0 +1,14 @@
+[13-Mar-2018 16:27:27 Asia/Colombo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/stanthon/public_html/module/invoice/invoice-management.php on line 464
+[28-Mar-2018 12:52:34 Asia/Colombo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stanthon/public_html/module/invoice/new.php on line 395
+[28-Mar-2018 12:54:58 Asia/Colombo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stanthon/public_html/module/invoice/new.php on line 395
+[28-Mar-2018 12:56:46 Asia/Colombo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stanthon/public_html/module/invoice/new.php on line 395
+[28-Mar-2018 13:01:12 Asia/Colombo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stanthon/public_html/module/invoice/new.php on line 413
+[28-Mar-2018 13:03:56 Asia/Colombo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stanthon/public_html/module/invoice/new.php on line 413
+[28-Mar-2018 13:06:20 Asia/Colombo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stanthon/public_html/module/invoice/new.php on line 413
+[28-Mar-2018 13:09:44 Asia/Colombo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stanthon/public_html/module/invoice/new.php on line 413
+[28-Mar-2018 13:14:45 Asia/Colombo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stanthon/public_html/module/invoice/new.php on line 413
+[28-Mar-2018 13:17:13 Asia/Colombo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stanthon/public_html/module/invoice/new.php on line 475
+[28-Mar-2018 13:17:57 Asia/Colombo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stanthon/public_html/module/invoice/new.php on line 475
+[28-Mar-2018 13:24:26 Asia/Colombo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stanthon/public_html/module/invoice/new.php on line 475
+[28-Mar-2018 13:42:43 Asia/Colombo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stanthon/public_html/module/invoice/new.php on line 462
+[28-Mar-2018 13:44:57 Asia/Colombo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stanthon/public_html/module/invoice/new.php on line 483

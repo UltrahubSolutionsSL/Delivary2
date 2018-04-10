@@ -1,0 +1,3 @@
+[04-Mar-2018 12:29:01 Asia/Colombo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stanthon/public_html/module/driver/driver-management.php on line 344
+[04-Mar-2018 12:29:06 Asia/Colombo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stanthon/public_html/module/driver/driver-management.php on line 344
+[04-Mar-2018 12:29:57 Asia/Colombo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/stanthon/public_html/module/driver/driver-management.php on line 344
